@@ -22,6 +22,14 @@
         float: right;
         width: 70%;
     }
+
+    div#formulario > p{
+        font-size: 1em;
+    }
+    
+    div#formulario > h1{
+        font-size: 2.0em;
+    }
     
 }
 
@@ -45,13 +53,14 @@
         float: left;
         width: 50%;
     }
+
+    div#formulario > p{
+        font-size: 1em;
+    }
+    
+    div#formulario > h1{
+        font-size: 2.0em;
+    }
     
 }
 
-div#formulario > p{
-    font-size: 1em;
-}
-
-div#formulario > h1{
-    font-size: 2em;
-}
